@@ -7,6 +7,7 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/Borewit/strtok3.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Borewit/strtok3/alerts/)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/59dd6795e61949fb97066ca52e6097ef)](https://www.codacy.com/app/Borewit/strtok3?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Borewit/strtok3&amp;utm_campaign=Badge_Grade)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Borewit/strtok3.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Borewit/strtok3/context:javascript)
+
 # strtok3
 
 A promise based streaming [*tokenizer*](#tokenizer) for [Node.js](http://nodejs.org) and browsers.
